@@ -1,0 +1,9 @@
+.hero-body {
+    background: url("b1.jpeg") no-repeat;
+    background-size: cover;
+}
+
+.outer-box, form {
+    background-color: transparent;
+    backdrop-filter: blur(5px);
+}
